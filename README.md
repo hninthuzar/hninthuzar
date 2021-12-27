@@ -1,5 +1,5 @@
-<h1 style="text-align: center">👋 Hi, I’m Hnin Thu Zar. 👋</h1>
-<h3>💞️ Web Develpoer 💞️</h3>
+<h1 align="center">👋 Hi, I’m Hnin Thu Zar. 👋</h1>
+<h3 align="center">💞️ Web Develpoer 💞️</h3>
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning vuejs.
