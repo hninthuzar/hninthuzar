@@ -33,8 +33,27 @@
 <footer>
   <h4 align="center">❤️Thanks for visit.❤️</h4>
 </footer>
+
+
+
+
+
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 hninthuzar/hninthuzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
 --->
