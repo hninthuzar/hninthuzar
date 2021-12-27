@@ -28,6 +28,11 @@
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> 
 </p>
+
+<hr height="0.1em"/>
+<footer>
+  <h4 align="center">❤️Thanks for visit.❤️</h4>
+</footer>
 <!---
 - 💞️ I’m looking to collaborate on ...
 hninthuzar/hninthuzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
