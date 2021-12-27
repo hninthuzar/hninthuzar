@@ -10,9 +10,10 @@
 - 👨‍💻 Some of my testing projects are available at https://github.com/hninthuzar?tab=repositories.
 - 📫 How to reach me https://www.facebook.com/hnin.thu.zar.725/
 
-<h3>Connect With Me</h3>
+<h3>Social Connect With Me</h3>
 <a href="https://twitter.com/HNNHNN25797" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hninhnin" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/hnin.thu.zar.725/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/hninthuzar._violet/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hninthuzar._violet" height="30" width="40" style="max-width: 100%;"></a>
 
 <h3>Languages and Tools:</h3>
 <p align="left" dir="auto"> 
