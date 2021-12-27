@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning <b>vuejs</b>.
-- 💬 Ask me about <b>angular,reactjs</b>.
+- 💬 Ask me about <b>angular, reactjs</b>.
 - 👨‍💻 Some of my testing projects are available at https://github.com/hninthuzar?tab=repositories.
 - 📫 How to reach me https://www.facebook.com/hnin.thu.zar.725/
 
