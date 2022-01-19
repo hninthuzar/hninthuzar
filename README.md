@@ -46,7 +46,7 @@ Development Office Project by Me
 
 `Lotterybeeper - frontend language react js, backend language node js, database mongodb` 
 
-<img align="center" width="260" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="260" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="260" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" />
+<img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" />
 
 <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-my.png" alt="body-my" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report.png" alt="user-lottery" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report-result.png" alt="user-report-result" />
 
