@@ -37,26 +37,26 @@ Development Office Project by Me
 ```
 `EMPartner (Employee Management System) - frontend language angular js, backend asp.net(c#), database mssql`
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-emp.png" alt="login-emp" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-emp.png" alt="body-emp" />
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-emp.png" alt="login-emp" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-emp.png" alt="body-emp" />
 
 `Storebeeper - frontend language angular js, backend asp.net(c#), database mssql` 
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-store.png" alt="login-store" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-store.png" alt="item-store" />
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-store.png" alt="login-store" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-store.png" alt="item-store" />
 
 
 `Lotterybeeper - frontend language react js, backend language node js, database mongodb` 
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" />
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" />
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-my.png" alt="body-my" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report.png" alt="user-lottery" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report-result.png" alt="user-report-result" />
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-my.png" alt="body-my" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report.png" alt="user-lottery" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/user-report-result.png" alt="user-report-result" />
 
 
 
 `Restaurant Point of Sale - frontend language react js, backend  node js, database mongodb`
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-respos.png" alt="login-respos" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/table-respos.png" alt="table-respos" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/order-respos.png" alt="order-respos" /> 
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-respos.png" alt="login-respos" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/table-respos.png" alt="table-respos" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/order-respos.png" alt="order-respos" /> 
 
-<img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-list-respos.png" alt="item-list-respos" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/menu-respos.png" alt="menu-respos" />
+<img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-list-respos.png" alt="item-list-respos" /> <img align="center" width="280" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/menu-respos.png" alt="menu-respos" />
 
 
 <hr height="0.1em"/>
