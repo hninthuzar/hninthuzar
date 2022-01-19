@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning <b>vuejs</b>.
-- 💬 Ask me about <b>angular, reactjs</b>.
+- 💬 Ask me about <b>angularjs, angular, reactjs</b>.
 - 👨‍💻 Some of my testing projects are available at https://github.com/hninthuzar?tab=repositories.
 - 📫 How to reach me https://www.facebook.com/hnin.thu.zar.725/
 
@@ -22,12 +22,14 @@
   <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
-  <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> <img src="https://github.com/hninthuzar/hninthuzar/blob/main/c%23.png" alt="c#" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://angular.io/" rel="nofollow"> <img src="https://github.com/hninthuzar/hninthuzar/blob/main/angular.png" alt="angular" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://angularjs.org/" rel="nofollow"> <img src="https://github.com/hninthuzar/hninthuzar/blob/main/angularjs.png" alt="angularjs" width="150" height="40" style="max-width: 100%;"> </a>
 </p>
 
 <hr height="0.1em"/>
