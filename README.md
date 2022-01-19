@@ -35,16 +35,16 @@
 ```
 Development Office Project by Me
 ```
-`EMPartner (Employee Management System) - frontend language angular js, backend asp.net(c#)`
+`EMPartner (Employee Management System) - frontend language angular js, backend asp.net(c#), database mssql`
 
 <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-emp.png" alt="login-emp" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body-emp.png" alt="body-emp" />
 
-`Storebeeper - frontend language angular js, backend asp.net(c#)` 
+`Storebeeper - frontend language angular js, backend asp.net(c#), database mssql` 
 
 <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-store.png" alt="login-store" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-store.png" alt="item-store" />
 
 
-`Lotterybeeper - frontend language react js, backend language node js` 
+`Lotterybeeper - frontend language react js, backend language node js, database mongodb` 
 
 <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" />
 
@@ -52,7 +52,7 @@ Development Office Project by Me
 
 
 
-`Restaurant Point of Sale - frontend language react js, backend  node js`
+`Restaurant Point of Sale - frontend language react js, backend  node js, database mongodb`
 
 <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/login-respos.png" alt="login-respos" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/table-respos.png" alt="table-respos" /> <img align="center" width="300" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/order-respos.png" alt="order-respos" /> 
 
