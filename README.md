@@ -60,7 +60,7 @@ Development Office WEB Application Project by Me
 
 `Schoolbeeper - frontend language react js, backend  node js, database mongodb`
 
-### `Too Many CMS Website` (_Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js and vanillaJS_)
+### `Too Many CMS Website` (*Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js and vanillaJS*)
 
 <hr height="0.1em"/>
 <footer>
