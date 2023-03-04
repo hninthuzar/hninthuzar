@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning <b>vuejs</b>.
-- 💬 Ask me about <b>angularjs, angular, reactjs</b>.
+- 💬 Ask me about <b>angularjs, angular, reactjs and vanillaJS.</b>.
 - 👨‍💻 Some of my testing projects are available at https://github.com/hninthuzar?tab=repositories.
 - 📫 How to reach me <b>hninthuzar.itworld@gmail.com</b>
 
@@ -58,7 +58,9 @@ Development Office WEB Application Project by Me
 <!-- 
 <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/item-list-respos.png" alt="item-list-respos" /> <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/menu-respos.png" alt="menu-respos" /> -->
 
-### `Too Many CMS Website`
+`Schoolbeeper - frontend language react js, backend  node js, database mongodb`
+
+### `Too Many CMS Website` (_Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js and vanillaJS_)
 
 <hr height="0.1em"/>
 <footer>
