@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/hninthuzar/hninthuzar/blob/main/CV-HTZA.jpg" alt="my cover photo" width="auto" height="250px"/>
 </div>
-<h1 align="center">👋 Hi, I’m Hnin Thu Zar.</h1>
+<h1 align="center"> Hi, I’m Hnin Thu Zar.</h1>
 <h3 align="center">💞️ Web Develpoer 💞️</h3>
 
 - 👀 I’m interested in programming.
