@@ -67,8 +67,7 @@ Development Office WEB Application Project by Me
 
 ```
 Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, vanillaJS
-and also assisted frontend view at magento ecommerce framework, drupal framework
-
+and also assisted frontend view at magento ecommerce framework, drupal framework and c# mvc project.
 ```
 
 <hr height="0.1em"/>
