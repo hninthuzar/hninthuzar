@@ -7,7 +7,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning <b>vuejs</b>.
 - 💬 Ask me about <b>angularjs, angular, reactjs and vanillaJS.</b>.
-- 👨‍💻 Some of my testing projects documentation are available at [all-testing-project-document](https://hninthuzar.github.io/all-testing-project-document/).
+- 👨‍💻 Some of my testing projects documentation are available at [all-testing-project-document-public](https://hninthuzar.github.io/all-testing-project-document-public/).
 - 📫 How to reach me <b>hninthuzar.itworld@gmail.com</b>
 
 <h3>Social Connect With Me</h3>
