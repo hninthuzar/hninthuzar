@@ -11,11 +11,11 @@
 - 📫 How to reach me <b>hninthuzar.itworld@gmail.com</b>
 
 <h3>Social Connect With Me</h3>
-<a href="https://twitter.com/HNNHNN25797" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hninhnin" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/hnin.thu.zar.725/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/hninthuzar._zara/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hninthuzar._zara" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/hnin-thu-zar-zara/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkin hninthuzar._zara" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new" rel="nofollow"><img align="center" src="https://github.com/hninthuzar/hninthuzar/blob/main/gmail.png" alt="hninthuzar.itworld@gmail.com" height="27" width="30" style="max-width: 100%;"></a>
+<a href="https://twitter.com/HNNHNN25797" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hninhnin" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/hnin.thu.zar.725/" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/hninthuzar._zara/" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hninthuzar._zara" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/hnin-thu-zar-zara/" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkin hninthuzar._zara" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new" rel="nofollow" target="_blank"><img align="center" src="https://github.com/hninthuzar/hninthuzar/blob/main/gmail.png" alt="hninthuzar.itworld@gmail.com" height="27" width="30" style="max-width: 100%;"></a>
 
 <h3>Languages and Tools:</h3>
 <p align="left" dir="auto"> 
