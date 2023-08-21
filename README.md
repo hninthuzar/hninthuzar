@@ -66,7 +66,9 @@ Development Office WEB Application Project by Me
 ### `Too Many CMS Website` 
 
 ```
-Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, vanillaJS and also assisted frontend view at magento ecommerce framework, drupal framework
+Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, vanillaJS
+and also assisted frontend view at magento ecommerce framework, drupal framework
+
 ```
 
 <hr height="0.1em"/>
