@@ -13,7 +13,7 @@
 <h3>Social Connect With Me</h3>
 <a href="https://twitter.com/HNNHNN25797" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hninhnin" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/hnin.thu.zar.725/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnin.thu.zar.725" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/hninthuzar._violet/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hninthuzar._violet" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/hninthuzar._zara/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hninthuzar._zara" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new" rel="nofollow"><img align="center" src="https://github.com/hninthuzar/hninthuzar/blob/main/gmail.png" alt="hninthuzar.itworld@gmail.com" height="27" width="30" style="max-width: 100%;"></a>
 
 <h3>Languages and Tools:</h3>
@@ -63,7 +63,11 @@ Development Office WEB Application Project by Me
 
 `Now Working *Banking System* with react js.` 
 
-### `Too Many CMS Website` (__Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js and vanillaJS__)
+### `Too Many CMS Website` 
+
+```
+Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, vanillaJS and also assisted frontend view at magento ecommerce framework, drupal framework
+```
 
 <hr height="0.1em"/>
 <footer>
