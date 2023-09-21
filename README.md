@@ -62,12 +62,12 @@ Development Office WEB Application Project by Me
 
 `Schoolbeeper - frontend language react js, backend  node js, database mongodb`
 
-`Now Working *Banking System* with react js.` 
+`Now Working *Banking System* developing by react js, next js with typescript.` 
 
 ### `Too Many Develop CMS Website` 
 
 ```
-Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, vanillaJS
+Wordpress, Boostrap, Tailwind CSS, UIKit, Astro js, Gulp js, React js, vanillaJS, Typescript,
 and also assisted frontend view at magento ecommerce framework, drupal framework and c# mvc project.
 ```
 
