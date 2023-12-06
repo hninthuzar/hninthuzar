@@ -5,7 +5,7 @@
 <h3 align="center">💞️ Web Develpoer 💞️</h3>
 
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning <b>vuejs</b>.
+- 🌱 I’m currently learning <b>vuejs and nextjs</b>.
 - 💬 Ask me about <b>angularjs, angular, reactjs and vanillaJS.</b>.
 - 👨‍💻 Some of my testing projects documentation are available at [learning-and-sharing-document-public](https://hninthuzar.github.io/learning-and-sharing-document-public/).
 - 📫 How to reach me <b>hninthuzar.itworld@gmail.com</b>
