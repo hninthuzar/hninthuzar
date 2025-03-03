@@ -46,7 +46,7 @@ Development Office WEB Application Project by Me
 
 `Farmbeeper - frontend language angular js, backend asp.net(c#), database mssql` 
 
-`Lotterybeeper - frontend language react js, backend language node js, database mongodb` 
+`Mastercare - frontend language react js, backend language node js, database mongodb` 
 <!-- 
 <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/lottery-login.png" alt="lottery-login" /> <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/betting.png" alt="betting" /> <img align="center" width="270" src="https://github.com/hninthuzar/hninthuzar/blob/main/project-img/body.png" alt="body-lottery" /> -->
 
