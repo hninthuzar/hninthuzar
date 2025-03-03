@@ -34,7 +34,7 @@
 </p>
 
 ```
-Development Office WEB Application Project by Me
+I developed the frontend part of these projects in the office.
 ```
 `EMPartner (Employee Management System) - frontend language angular js, backend asp.net(c#), database mssql`
 <!-- 
